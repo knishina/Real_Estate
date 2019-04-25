@@ -17,4 +17,6 @@ There are six relevant folders in this directory.  Below are the folder names an
 - `src` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Notebooks for school data, and visualizations.
 
 ### Conclusion.
+#### North-East and North-West portions of South Carolina are the best places to invest.
 ![Conclusion](https://github.com/knishina/Real_Estate/blob/master/Images/01.png)
+ 
