@@ -2,7 +2,7 @@
 
 ## Link for the project: https://knishina.github.io/clean_real_estate/
 
-![SummaryPicture](some link)
+![SummaryPicture](https://github.com/knishina/Real_Estate/blob/master/Images/02.png)
 
 ### Summary.
 This folder, `Real_Estate`, contains work from a group project.  The purpose of the project was to evaluate different factors that contribute to real estate investment in South Carolina.  These factors include crime, schools, job availability, and the rent/cost ratio of available properties.  Each member was responsible for gathering, and processing data from different resources.  The data were then visualized using matplotlib to build a contour map and overlayed on a map of South Carolina using Leaflet.
@@ -15,3 +15,6 @@ There are six relevant folders in this directory.  Below are the folder names an
 - `data` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; All component CSVs.
 - `docs` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Project proposal.
 - `src` &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Notebooks for school data, and visualizations.
+
+### Conclusion.
+![Conclusion](https://github.com/knishina/Real_Estate/blob/master/Images/01.png)
