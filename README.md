@@ -7,7 +7,7 @@
 <br />
 
 ### Summary.
-This folder, `Real_Estate`, contains work from a group project.  The purpose of the project was to evaluate different factors that contribute to real estate investment in South Carolina.  These factors include crime, schools, job availability, and the rent/cost ratio of available properties.  Each member was responsible for gathering, and processing data from different resources.  The data were then visualized using matplotlib to build a contour map and overlayed on a map of South Carolina using Leaflet.
+This folder, `Real_Estate`, contains work from a group project.  The purpose of the project was to evaluate different factors that contribute to real estate investment in South Carolina.  These factors include crime, schools, job availability, and the rent/cost ratio of available properties.  Each member was responsible for gathering, and processing data from different resources--this involved scraping with `BeautifulSoup` or by making `API` calls.  The data were munged with `pandas` then visualized using `matplotlib` to build a contour map and overlayed on a map of South Carolina using `Leaflet`.
 
 <br />
 
